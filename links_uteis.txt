@@ -4,3 +4,8 @@ http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
 
 Testando os diffs
 http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
+
+
+http://willianjusten.teachable.com/p/git-e-github-para-iniciantes
+
+https://willianjusten.com.br/novo-curso-de-git-e-github-para-iniciantes/
