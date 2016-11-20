@@ -1,0 +1,3 @@
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
